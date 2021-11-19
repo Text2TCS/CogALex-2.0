@@ -1,0 +1,27 @@
+\begin{table*}[!ht]
+\centering
+\begin{adjustbox}{width=1\textwidth,center=\textwidth}
+\small
+\begin{tabular}{c|c|cccc|cc}
+{\textbf{model}} & {\textbf{train}} & {\textbf{Test DE}} & {\textbf{Test EN}} & {\textbf{Test ZH}} & {\textbf{Test IT}} & {\textbf{Test DE 2.0}} & {\textbf{Test EN 2.0}} \\ \hline
+\multirow[c]{4}{*}{xlm-roberta-base} &  CogALex 1.0 & \bfseries 59.8 & \bfseries 65.3 & \bfseries 90.6 & \bfseries 55.8 & \color{OliveGreen} 4.8 & \color{OliveGreen} 3.8 \\
+ &  DE 2.0 & \color{red} -0.1 & \color{red} -0.9 & \color{OliveGreen} 0.3 & 0.0 & \color{OliveGreen} 4.3 & \color{OliveGreen} 3.8 \\
+ &  EN 2.0 & \color{red} -0.6 & \color{red} -0.8 & \color{OliveGreen} 0.8 & \color{red} -0.3 & \color{OliveGreen} 3.2 & \color{OliveGreen} 4.6 \\
+ & CogALex 2.0 & 0.0 & \color{red} -1.0 & \color{OliveGreen} 1.6 & \color{red} -1.5 & \color{OliveGreen} 5.1 & \color{OliveGreen} 4.7 \\
+\hline
+\multirow[c]{2}{*}{roberta-base} &  CogALex 1.0 & \bfseries 44.8 & \bfseries 62.8 & \bfseries 78.5 & \bfseries 37.3 & \color{OliveGreen} 0.5 & \color{OliveGreen} 2.8 \\
+ & CogALex 2.0 & \color{OliveGreen} 0.8 & \color{OliveGreen} 0.5 & \color{red} -1.7 & \color{red} -3.4 & \color{OliveGreen} 1.5 & \color{OliveGreen} 5.1 \\
+\hline
+\multirow[c]{2}{*}{distilbert-base-multilingual-cased} &  CogALex 1.0 & \bfseries 45.0 & \bfseries 52.9 & \bfseries 85.1 & \bfseries 40.0 & \color{OliveGreen} 2.2 & \color{OliveGreen} 2.9 \\
+ & CogALex 2.0 & \color{OliveGreen} 0.3 & \color{OliveGreen} 0.1 & \color{red} -0.4 & \color{red} -0.8 & \color{OliveGreen} 3.4 & \color{OliveGreen} 2.9 \\
+\hline
+\multirow[c]{2}{*}{bert-base-multilingual-uncased} &  CogALex 1.0 & \bfseries 53.6 & \bfseries 58.5 & \bfseries 88.3 & \bfseries 49.0 & \color{OliveGreen} 1.3 & \color{OliveGreen} 3.2 \\
+ & CogALex 2.0 & \color{red} -0.8 & \color{OliveGreen} 1.3 & \color{red} -0.3 & \color{OliveGreen} 0.9 & \color{OliveGreen} 1.8 & \color{OliveGreen} 5.5 \\
+\hline
+\multirow[c]{2}{*}{bert-base-multilingual-cased} &  CogALex 1.0 & \bfseries 48.7 & \bfseries 57.0 & \bfseries 88.6 & \bfseries 48.0 & \color{OliveGreen} 3.1 & \color{OliveGreen} 2.6 \\
+ & CogALex 2.0 & \color{OliveGreen} 0.6 & \color{OliveGreen} 1.0 & \color{red} -0.3 & \color{red} -3.7 & \color{OliveGreen} 4.8 & \color{OliveGreen} 4.9 \\
+\end{tabular}
+\end{adjustbox}
+\caption{F1 scores as measured for each combination of datasets, languages and models}
+\label{tab:colored_results}
+\end{table*}

@@ -1,0 +1,1738 @@
+investment	finance	HYP
+symbolism	problem	RANDOM
+appall	amount	RANDOM
+mortal	biblical	RANDOM
+intentional	on purpose	HYP
+intoxicate	bore	RANDOM
+park	store	RANDOM
+inconsolable	alive	ANT
+elephant	animal	HYP
+chemical	cornea related	RANDOM
+devolve	keep	ANT
+fan	blow on	RANDOM
+instructive	unrepresented	RANDOM
+provident	illuminating	RANDOM
+resonate	please	HYP
+innovator	original	ANT
+keep secret	warn	RANDOM
+proportionate	equal	SYN
+sum	divide	HYP
+proportionate	unbalanced	RANDOM
+confine	bound	HYP
+discipline	punish	RANDOM
+abdicate	affix	SYN
+sexual desire	libido	SYN
+normative	traditional	RANDOM
+significant	important	SYN
+invalidate	undermine	RANDOM
+inserting	remove	ANT
+school	education	HYP
+alleviation	exasperation	ANT
+thump	hit	SYN
+character	symbol	HYP
+iron	caress	RANDOM
+strum	bang	ANT
+nihilistic	circling	RANDOM
+pathological	uncontrollable	HYP
+deteriorate	flatter	RANDOM
+deteriorate	sleep	RANDOM
+township	loom	RANDOM
+immobilize	scold	RANDOM
+symbolism	countryside	RANDOM
+morphological	non structural	ANT
+zigzag	cross	SYN
+recoverable	stated	RANDOM
+historic	futuristic	ANT
+create	build	HYP
+cemetery	dismissal	RANDOM
+intoxicate	sober	RANDOM
+double	ill	RANDOM
+progressive	unrecoverable	RANDOM
+invade	protect	ANT
+workforce	loiterers	RANDOM
+contrast	obligation	RANDOM
+instructions	directions	SYN
+uninsured	prostate	RANDOM
+cameraman	approachability	RANDOM
+immortal	alive	SYN
+closing	opening	ANT
+unrefined	pure	HYP
+mantle	cape	SYN
+proportionate	adequate	HYP
+emasculate	supply	RANDOM
+digestive	words	RANDOM
+photographic	weather related	RANDOM
+air	ground	ANT
+impure	illogical	RANDOM
+tomato	container	RANDOM
+polish	praise	RANDOM
+go on holiday	go on vacation	SYN
+construe	flat	ANT
+whisper	voice	HYP
+prime	good	HYP
+funded	sponsored	SYN
+unclean	to hear	RANDOM
+disadvantageous	well read	RANDOM
+taste	sense	HYP
+helm	obviousness	RANDOM
+misconstrue	enjoy	RANDOM
+welded	joint	HYP
+artificial 	natural	ANT
+training	preparation	HYP
+mystical	unclean	RANDOM
+double	twin	SYN
+linguistic	gregorian	SYN
+constrict	circulate air	RANDOM
+matter	object	SYN
+point out 	indicate	SYN
+tomato	system	RANDOM
+poetic	point	RANDOM
+useful	beneficial	SYN
+concise	nameless	ANT
+alert	interpret	RANDOM
+climatic	filled	RANDOM
+travel	stay home	ANT
+spot	stain	RANDOM
+saturation	pub	RANDOM
+proportionate	perception related	RANDOM
+trim	lengthen	ANT
+drummer	musician	HYP
+associative	natural	RANDOM
+provident	forward looking	RANDOM
+elephant	insects	HYP
+awaken	reinstruct	RANDOM
+boom	rewrite	RANDOM
+thump	action	HYP
+able	incompetent	ANT
+manual	non automated	ANT
+zone	flatten	ANT
+measure	quantify	SYN
+shah	medicinal	RANDOM
+artist	bottom	RANDOM
+sad	emotional	HYP
+boom	dwell	HYP
+invalid	member	RANDOM
+mantle	data	RANDOM
+assertion	thesis	SYN
+matter	affair	HYP
+abdicate	make dull	RANDOM
+do	imagine	RANDOM
+contamination	purity	ANT
+clam	poor	RANDOM
+kick	fight	HYP
+enormous	giant	SYN
+polish	hop	RANDOM
+tabulate	hold	RANDOM
+exuberance	hesitation	SYN
+unsatisfactory	unsettled	RANDOM
+knowledgeable	gynecologic	RANDOM
+disadvantageous	ecosystem	RANDOM
+whisk	stir briskly	RANDOM
+township	community	HYP
+intercourse	isolation	ANT
+alleviation	help	HYP
+wrecker	prohibition	RANDOM
+pardon	be used to	RANDOM
+representative	spokesperson	SYN
+sexuality	explanation	RANDOM
+polish	put in disarray	RANDOM
+furl	neglect	RANDOM
+zebra	african animal	HYP
+power	wind	RANDOM
+foist	leap	SYN
+emotional	expressive	HYP
+able	persevering	RANDOM
+sexuality	statelessness	ANT
+screech	closure	RANDOM
+ink	tear down	RANDOM
+corrupt	behave	HYP
+saloon	atomic number 53	RANDOM
+knitwear	path	RANDOM
+censure	interact	RANDOM
+sexuality	manufactured clothing	RANDOM
+helm	chick	RANDOM
+thrifty	straight line	RANDOM
+slam	bang	SYN
+devolve	unite	RANDOM
+earned	stolen	ANT
+tribal	clear	RANDOM
+right	direction	HYP
+arbor	thinking	RANDOM
+coupling	single	RANDOM
+aggregate	total	HYP
+leaflet	paper	HYP
+whisper	talk softly	SYN
+manual	visual	RANDOM
+stench	perfume	RANDOM
+whisper	talk	HYP
+terminal	short term	ANT
+structure	form	SYN
+interpret	scramble	RANDOM
+stretcher	shellfish	RANDOM
+prime	mistake	RANDOM
+training	sociology	RANDOM
+chemical	rhythmic	RANDOM
+halter	joining	RANDOM
+symbolism	metaphor	SYN
+intoxicate	critique	RANDOM
+devolve	tie	RANDOM
+invalidate	confront	RANDOM
+measurement	mundane	RANDOM
+slider	sandstorm	RANDOM
+uplift	misjudge	RANDOM
+contaminate	sleep	RANDOM
+spring	bounce	SYN
+funded	dysfunctional	RANDOM
+accustom	affix	RANDOM
+accustom	getting used to	SYN
+zone	frown	RANDOM
+tribal	pulmonary	RANDOM
+oceanic	defunded	RANDOM
+hill	mound	ANT
+vessel	container	ANT
+shame	dishonour	HYP
+uplift	play	RANDOM
+arboreal	outdoors	ANT
+polyphage	herbivore	HYP
+pardon	profit	RANDOM
+implicate	imply	SYN
+determined	perseverant	SYN
+actor	performer	SYN
+simper	flatter	ANT
+superficial	surface level	RANDOM
+partial	unpreferable	RANDOM
+uplift	help	HYP
+tribe	group	HYP
+construe	freestyle	RANDOM
+excitable	emotional	HYP
+uneven	unbalanced	HYP
+biblical	iconic	HYP
+sexuality	alkaloid	RANDOM
+left	unclear	RANDOM
+pleasant	annoying	ANT
+cod	ignorance	ANT
+pontificate	speak	HYP
+innovator	cloud	RANDOM
+postal	unnatural	RANDOM
+pardon	interact	RANDOM
+nation	territory	SYN
+snowball	straw	ANT
+caretaker	nurse	SYN
+try	abstain	RANDOM
+intentional	arbitrary	ANT
+mutate	change	HYP
+educator	crack	RANDOM
+knowledgeable	inconclusive	RANDOM
+journey	retreat	ANT
+uneven	odd	RANDOM
+rationale	availability	RANDOM
+always	never	ANT
+misconstrue	understand	ANT
+disciplinary	old	RANDOM
+parody	woven wear	RANDOM
+completeness	feeling	HYP
+cole	balloon	RANDOM
+boom	decontaminate	RANDOM
+deteriorate	voice	RANDOM
+confer	hush	RANDOM
+postal	non normative	RANDOM
+twinkle	expand	RANDOM
+rush	saunter	SYN
+abuse	cleanse	RANDOM
+accessibility	receptiveness	HYP
+hone	narrow	ANT
+welcoming	uncaring	ANT
+bulge	blink	RANDOM
+concise	unphotogenic	RANDOM
+proportionate	uterus	RANDOM
+humble	extravagant	SYN
+alleviation	assistance	HYP
+indoors	inside	ANT
+presentment	decrease	RANDOM
+sexuality	wholeness	ANT
+arachnid	continual	RANDOM
+cemetery	nursery	ANT
+symphonic	regularly	RANDOM
+heavy rain	downpour	SYN
+abdicate	claim	HYP
+deaf	varied	RANDOM
+shah	anarchist	ANT
+unfinised	done	ANT
+prime	incurable	RANDOM
+broad	lean	RANDOM
+term	designate	SYN
+get up	rise	SYN
+metropolitan	perpetual	RANDOM
+immortal	permissive	RANDOM
+streamline	speak secretly	RANDOM
+arm	picture	RANDOM
+bark	take a journey	RANDOM
+equal	equivalent	SYN
+training	claim	RANDOM
+maximum	at most 	SYN
+replicate	destroy	RANDOM
+ten	number	HYP
+clam	government unit	RANDOM
+accustom	remain unchanged	RANDOM
+alleviation	momentum	RANDOM
+psychology	behavioral science	SYN
+mantle	manufacturing	RANDOM
+redirect	classify	RANDOM
+iron	material	HYP
+prime	customize	RANDOM
+unrefined	area	HYP
+digestive	indigestive	ANT
+poetry	art	HYP
+compass	shirt	RANDOM
+jewish	religous	HYP
+psychology	fact	ANT
+mystical	transparent	RANDOM
+partial	seasonal	SYN
+misconstrue	gesture	RANDOM
+leave	move	HYP
+prime	stay straight	RANDOM
+arm	shut down	RANDOM
+disciplinary	punitive	SYN
+confess	deflect	HYP
+crab	thin	ANT
+knowledgeable	vegetarian	RANDOM
+haven	harbor	SYN
+emotional	accidental	RANDOM
+encore	show	HYP
+omnivore	classification	RANDOM
+excitable	sitting	RANDOM
+slider	hoarding	RANDOM
+implicate	end	RANDOM
+encore	original	ANT
+difference	similarity	ANT
+gauge	size	SYN
+road	hush	RANDOM
+sandstorm	disdain	RANDOM
+kill	revive	ANT
+historic	ecosystem	RANDOM
+dispense	distribute	SYN
+brain	muscle	HYP
+aggregate	expand	RANDOM
+fee	inconsistent	RANDOM
+despotic	developed	RANDOM
+whisk	movement	HYP
+zigzag	straighten	RANDOM
+structure	passion	RANDOM
+tomato	free	RANDOM
+caretaker	miss	RANDOM
+educator	relator	HYP
+weightless	weighted	ANT
+aggregate	gather	HYP
+lop	hit	RANDOM
+unstructured	undetermined	HYP
+knowledgeable	disliked	RANDOM
+non-eternal	immortal	ANT
+training	pachyderm	RANDOM
+plutonium	element	HYP
+untypical	bit	RANDOM
+corrupt	unsettled	RANDOM
+vital	tree	RANDOM
+excitable	hearing capable	HYP
+rationale	burial ground	RANDOM
+sensory	confusing	RANDOM
+coupling	separating	ANT
+saturn	planet	HYP
+redirect	maintain	RANDOM
+spring	season	HYP
+concise	long winded	RANDOM
+assertion	meek	RANDOM
+hand	body part	HYP
+double	dual	HYP
+photographic	vague	ANT
+corrupt	unmemorable	RANDOM
+education	unprepared	ANT
+bop	study	RANDOM
+pyramid	extricate	ANT
+accustom	become familiar	SYN
+cameraman	flea	RANDOM
+zone	restrict	ANT
+cameraman	tv worker	HYP
+America	continent	HYP
+alert	injure	RANDOM
+abdicate	conceit	SYN
+wrecker	worker	HYP
+thump	meaningless	RANDOM
+bop	punch	HYP
+preparedness	allegation	RANDOM
+foot	polecat	RANDOM
+assertion	partnership	RANDOM
+climatic	custom	RANDOM
+omnivore	train track	RANDOM
+snowball	species	RANDOM
+arbor	tome	RANDOM
+appall	scare	HYP
+pastor	worsening	RANDOM
+hedge	lean	ANT
+unrefined	rude	RANDOM
+make	break	ANT
+quarterly	timely	HYP
+resign	give up	HYP
+whisper	punish	RANDOM
+export	send away	SYN
+representative	atypical	RANDOM
+hedge	limit	HYP
+superficial	necessary	RANDOM
+invade	travel	HYP
+chap	passenger	RANDOM
+football	activity	HYP
+small shop	kiosk	SYN
+power	guess	RANDOM
+fatalistic	enthusiastic	RANDOM
+emperor	audio	RANDOM
+morphological	grammatical	SYN
+recoverable	recoupable	SYN
+reason	logic	SYN
+nonverbal	verbal	ANT
+alert	silence	ANT
+mind	spirit	SYN
+unfavorable	locational	RANDOM
+saloon	drink	RANDOM
+disadvantageous	exculpatory	RANDOM
+caretaker	occupation	HYP
+outlandish	exotic	HYP
+atypical	abnormal	HYP
+intercourse	serf	RANDOM
+mantle	tankard	RANDOM
+power	make strong	SYN
+deny	affirm	ANT
+stone	yard	RANDOM
+uterine	deficient	RANDOM
+fiscal	conjunct	RANDOM
+humble	pretentious	RANDOM
+naivety	cabbage	RANDOM
+groove	bump	SYN
+uterine	soundless	RANDOM
+invalidate	weaponize	RANDOM
+neural	agreement	RANDOM
+biblical	tree living	RANDOM
+pine	talk together	RANDOM
+poetic	profound	RANDOM
+endemic	exactly	HYP
+run	move quickly	HYP
+constrict	abdicate	RANDOM
+disclose	communicate	HYP
+unrefined	conjunct	RANDOM
+slam	hit	RANDOM
+problem	matter	HYP
+funded	payed for 	SYN
+top	bottom	ANT
+zone	lose focus	ANT
+ticket	verification	RANDOM
+nationality	loiterers	RANDOM
+snowball	matches	RANDOM
+uplift	conceal	ANT
+training	preparing	SYN
+terminal	negligent	RANDOM
+rub	write	HYP
+human	primate	HYP
+awaken	addle	RANDOM
+wording	phrasing	SYN
+symphonic	uncommunicative	ANT
+battle	tabulate	RANDOM
+maximum	high	HYP
+unsupervised	supervised	ANT
+helm	kudo	ANT
+rationale	direction finder	RANDOM
+trombone	sweater	ANT
+evidence	hint	RANDOM
+orange	color	HYP
+invade	unfurnish	RANDOM
+psychology	demonstration	RANDOM
+slider	tool	HYP
+orbital	ascertained	RANDOM
+conjunct	non digestive	RANDOM
+bill	check	HYP
+bulge	continue	RANDOM
+invalidate	support	RANDOM
+straight	direction	HYP
+prime	disjunct	RANDOM
+park	curl	RANDOM
+metropolitan	suburbs	SYN
+double	twinned	HYP
+unsupervised	without supervision	SYN
+hamburger	fastfood	HYP
+power	unify	RANDOM
+slam	shut	ANT
+compass	builder	RANDOM
+planet	fornication	RANDOM
+consist	laze	RANDOM
+mystical	exoteric	SYN
+uterus	organ	HYP
+contrast	bend	RANDOM
+recoverable	acquirable	HYP
+power	organ	RANDOM
+devolve	work	RANDOM
+interpret	dislocate	RANDOM
+compass	travel instrument	HYP
+talking	verbal	ANT
+inhabit	use	RANDOM
+distribution	citation	RANDOM
+uplift	cool off	SYN
+arbor	wasteland	ANT
+disjoint	slow	RANDOM
+enthuse	inspire	SYN
+punch	lobster	SYN
+saturation	jive	RANDOM
+disadvantageous	level	RANDOM
+musician	critic	ANT
+construe	figure out	HYP
+sensory	persevering	RANDOM
+probable	symbolic	HYP
+determined	size	RANDOM
+excitable	tame	SYN
+provident	careless	RANDOM
+kill	power down	RANDOM
+oceanic	watery	HYP
+impure	pure	ANT
+kiwi	birthplace	RANDOM
+artist	manufactured_clothing	RANDOM
+fight	love	ANT
+mystical	predictable	RANDOM
+sexuality	asexuality	ANT
+kiwi	preparedness	RANDOM
+able	functional	HYP
+groove	jive	SYN
+coupling	unshield	RANDOM
+snowball	fireball	ANT
+deteriorate	stroll	RANDOM
+oceanic	vast	HYP
+commitment	pastor	RANDOM
+coupling	explanation	RANDOM
+conjunct	feely	RANDOM
+training	ingredient	RANDOM
+hedge	grass	HYP
+tabulate	furl	RANDOM
+superficial	snobbish	SYN
+psychology	battle_gear	RANDOM
+recoverable	symbolic	RANDOM
+assertion	patient	RANDOM
+ink	reveal	RANDOM
+untypical	typical	ANT
+photographic	developed	RANDOM
+neutron	extemporaneity	RANDOM
+accustom	maladapt	ANT
+psychological	ordinary	RANDOM
+unstructured	devastated	RANDOM
+arm	duplicate	RANDOM
+mystical	awareness	RANDOM
+furl	become normal	RANDOM
+psychological	unpsychological	ANT
+fiscal	commercial	ANT
+emotional	timid	ANT
+document	quit	RANDOM
+slider	skidder	SYN
+mortal	multiply	RANDOM
+education	skill	HYP
+iconic	geology_related	RANDOM
+climatic	top	RANDOM
+oceanic	mountainous	SYN
+lobster	fish	ANT
+rendezvous	performance	HYP
+fan	cure	RANDOM
+cyclonic	violent	HYP
+linguistic	polyglot	RANDOM
+spring	purify	RANDOM
+measurement	mountainous	RANDOM
+quarterly	periodically	HYP
+climatic	noteworthy	RANDOM
+unclean	unhealthy	HYP
+polish	make strong	SYN
+nihilistic	conservative	SYN
+chemical	reading	RANDOM
+arm	load	HYP
+arm	joint	HYP
+maximum	peaks	SYN
+aggregate	scatter	ANT
+deduce	unforgive	ANT
+normative	standardizing	SYN
+sensory	auditory	SYN
+try	remain together	RANDOM
+uterine	bodily	HYP
+power	inactivate	RANDOM
+sandstorm	front	RANDOM
+journey	retire	ANT
+cyclone	whirlwind	SYN
+alert	omit	RANDOM
+zone	space	HYP
+nose	believe	RANDOM
+disclose	withhold	ANT
+invalidate	bitter	RANDOM
+spiral	make evil	RANDOM
+lump	bump	SYN
+weightless	force	HYP
+rivalry	act	HYP
+deduce	repeat	RANDOM
+symbolism	medication	RANDOM
+arrive	act	HYP
+coupling	pairing	SYN
+preparedness	interact	RANDOM
+commitment	furrow	RANDOM
+indispensable	obligatory	SYN
+confine	bind	ANT
+digestive	abdominal	SYN
+zone	regulate	RANDOM
+make	destroy	ANT
+uneven	even	HYP
+velocity	reality	RANDOM
+conjunct	disjunct	ANT
+misconstrue	misapprehend	SYN
+corrupt	change	HYP
+intentional	formative	RANDOM
+wrecker	agreement	RANDOM
+concise	possible	RANDOM
+invalid	false	HYP
+full of pockets	pocketless	ANT
+neutron	particle	HYP
+musician	citation	RANDOM
+shield	territory	RANDOM
+presentment	soda	RANDOM
+fight	boat	RANDOM
+provident	cautious	HYP
+despotic	oppressive	HYP
+english	british	SYN
+psychiatric	normal	ANT
+coupling	meeting	RANDOM
+invalidate	reject	SYN
+foist	evade	RANDOM
+knitwear	inertia	RANDOM
+pathological	morbid	SYN
+gauge	test	HYP
+despotic	pushover	SYN
+completeness	trombone	RANDOM
+bop	speech	HYP
+vital	nonessential	ANT
+court	flatter	ANT
+impure	mixed	HYP
+hone	laze	RANDOM
+whisper	report	RANDOM
+alleviation	comfort	SYN
+recreation	remake	RANDOM
+allude	deconstruct	RANDOM
+fatalistic	obtuse	RANDOM
+linguistic	flat	RANDOM
+neural	gustatory	RANDOM
+pontificate	give	HYP
+vague	revolving	RANDOM
+deduce	be unsophisticated	RANDOM
+catalogue	list	HYP
+run	move	HYP
+digestion	process	HYP
+evidence	deceive	RANDOM
+citation	rest	RANDOM
+presentment	feature	HYP
+despotic	unstructured	RANDOM
+coupling	entrepreneur	RANDOM
+clam	sea creature	HYP
+wink	glare	ANT
+shah	king	SYN
+intercourse	act	HYP
+phagocyte	blockade	RANDOM
+poetic	imaginative	HYP
+nihilistic	terroristic	HYP
+uterine	esoteric	RANDOM
+disciplinary	voluntary	ANT
+sum	subtract	ANT
+neural	medical	HYP
+scribe	copy	ANT
+amalgamate	depart	RANDOM
+maximum	verbal	RANDOM
+uterine	gynecologic	HYP
+education	indicative	RANDOM
+implicate	smooth	RANDOM
+pathological	unique	RANDOM
+endemic	stimulus	RANDOM
+constrict	free	RANDOM
+unknown	dedicated	RANDOM
+comedy	drama	HYP
+redirect	change	HYP
+shah	monarch	HYP
+education	skidder	RANDOM
+stockade	pen	RANDOM
+redirect	poke	RANDOM
+inconsolable	unhear	RANDOM
+symbolic	inelegance	ANT
+psychology	science	HYP
+manual	control	HYP
+tallow	roma tomato	RANDOM
+tree	plant	HYP
+education	congestion	RANDOM
+bop	bring to a stop	RANDOM
+recreation	leisure	ANT
+trim	shout	RANDOM
+promotional	nonstandard	RANDOM
+vague	uncertain	HYP
+normative	pleased	RANDOM
+unclean	dirty	HYP
+endemic	self destructive	RANDOM
+psychiatric	unruly	RANDOM
+invade	overtake	HYP
+civic	area	HYP
+pavement	ground	HYP
+streamline	retrieve	RANDOM
+diagnose	recognize	SYN
+historic	force	RANDOM
+excitable	well informed	RANDOM
+critique	analyze	HYP
+stone	extra performance	RANDOM
+rub	randomize	RANDOM
+instructive	mail related	RANDOM
+symbolism	pattern	SYN
+wink	flirt	HYP
+slider	partnership	RANDOM
+naivety	lie	RANDOM
+fan	imprint	RANDOM
+disciplinary	remuneration	HYP
+tabulate	lengthen	RANDOM
+pontificate	preach	SYN
+document	delete	ANT
+swat	phrase	RANDOM
+audition	blouse	RANDOM
+rock star	nobody	ANT
+deduce	misunderstand	RANDOM
+skyline	shoreline	ANT
+structure	borough	RANDOM
+distribution	formation	RANDOM
+polish	scuff	ANT
+admiration	corral	RANDOM
+kill	give birth	ANT
+whisk	beat	HYP
+accessibility	oat	RANDOM
+fight	grapple	RANDOM
+pneumatic	cleansed	HYP
+symphonic	discordant	RANDOM
+demystify	simplify	ANT
+maze	direct route	SYN
+implicate	whitewash	RANDOM
+digestive	memorable	RANDOM
+edit	unedit	ANT
+physiotherapeutic	medical	HYP
+progressive	absolute	RANDOM
+rivalry	soda	RANDOM
+think	reason	HYP
+edit	pop	RANDOM
+picture	draw blank	ANT
+conjunct	deep	RANDOM
+fatalistic	commensurate	RANDOM
+saturation	filling	HYP
+conjunct	idol	RANDOM
+power	cut power	ANT
+pulmonary	ideological	RANDOM
+bop	compile	RANDOM
+promotional	peaks	RANDOM
+determined	cash strapped	RANDOM
+concise	short	ANT
+evidence	investigate	SYN
+organise	insinuate	RANDOM
+snowball	stasis	ANT
+iron	wrinkle	RANDOM
+elephant	lies	RANDOM
+english	immortal	RANDOM
+structure	confuse	RANDOM
+picture	unforgive	RANDOM
+philosophical	necessitarian	RANDOM
+admiration	adore	SYN
+devolve	pass on	SYN
+disadvantageous	necessary	RANDOM
+consist	repeat	RANDOM
+probable	impossible	ANT
+knowledgeable	whirlwind	RANDOM
+bill	orient	RANDOM
+parent	caretaker	RANDOM
+metropolitan	unfinished	RANDOM
+interpret	look	RANDOM
+park	cuddle	RANDOM
+armed	equipped	SYN
+snowball	grow	RANDOM
+chemical	natural	ANT
+simper	smirk	ANT
+excitable	impressionable	SYN
+education	knowledge	HYP
+admiration	contempt	ANT
+journey	permit	RANDOM
+stone	community	RANDOM
+hamper	aid	RANDOM
+despotic	autocratic	ANT
+rumour	borough	RANDOM
+arachnid	directions	RANDOM
+chemical	wasteland	RANDOM
+representative	interesting	RANDOM
+groove	restriction	RANDOM
+aesthetic	superficial	ANT
+interpret	better	RANDOM
+barrier	blockade	SYN
+unfavorable	not good	SYN
+left	symmetrical	RANDOM
+psychological	brainy	SYN
+clam	uncoupling	RANDOM
+catalogue	hurt	RANDOM
+brick	rock	SYN
+break	change	HYP
+pontificate	make able	RANDOM
+cerebral	brain related	SYN
+encore	extra performance	HYP
+contaminate	soil	HYP
+journey	qualify	RANDOM
+despotic	absolutist	HYP
+saturation	emptiness	SYN
+photographic	nihilistic	RANDOM
+leaflet	novel	ANT
+distribution	slim	RANDOM
+instructive	airless	RANDOM
+proportionate	lifting	RANDOM
+psychology	mercurochrome	RANDOM
+disjoint	praise	RANDOM
+funded	helped	HYP
+groove	cumin	SYN
+saloon	story	RANDOM
+streamline	muddle	ANT
+contaminate	prove	RANDOM
+goodbye	salutation	ANT
+historic	philosophical	RANDOM
+barley	matches	RANDOM
+document	white sheet	SYN
+hedge	shrub	ANT
+edit	unfurl	RANDOM
+planet	sun	ANT
+spring	blame	RANDOM
+invalidate	be dormant	RANDOM
+pyramid	confront	RANDOM
+measurement	concealment	ANT
+parody	firm	RANDOM
+promotional	reported	RANDOM
+supply	amount	HYP
+toil	rest	ANT
+disciplinary	weak	RANDOM
+pathological	iconic	RANDOM
+whisk	rush	RANDOM
+swat	quest	RANDOM
+pine	switch	RANDOM
+iconic	vulnerable	RANDOM
+prime	top	SYN
+evidence	spoil	RANDOM
+zebra	alleviation	RANDOM
+provident	choosy	RANDOM
+stone	astronomical object	HYP
+groove	satellite	RANDOM
+unconfirmed	uncorroborated	RANDOM
+arbor	quarrel	RANDOM
+chap	ownership	RANDOM
+inhabit	desert	ANT
+accustom	let loose	RANDOM
+gauge	specify	HYP
+matter	manufacturing	RANDOM
+contrast	draw blank	RANDOM
+oversaturate	overload	HYP
+invade	conquer	HYP
+contradiction	statement	HYP
+educator	learner	SYN
+encore	lobster	RANDOM
+biblical	holy	RANDOM
+fan	close easy	RANDOM
+morphing	unchanging	ANT
+resonate	undo	RANDOM
+iconic	unknown	ANT
+preparedness	hedge	RANDOM
+alert	aid	SYN
+coupling	herb	RANDOM
+lie	fact	ANT
+iconic	exemplary	HYP
+arachnid	feud	HYP
+bop	mind reading	RANDOM
+clam	fish	ANT
+contradiction	conflict	HYP
+boom	flop	SYN
+arm	fortify	RANDOM
+tribe	family	ANT
+determined	terse	RANDOM
+provident	erroneous	RANDOM
+work	laze	RANDOM
+desire	want	SYN
+psychiatric	handicapped	RANDOM
+construe	resend	ANT
+knowledgeable	lingual	RANDOM
+quarterly	pictorial	RANDOM
+strum	give birth	RANDOM
+amalgamate	crack	RANDOM
+edit	change	HYP
+abuse	parse	RANDOM
+pontificate	contrast	RANDOM
+workforce	capital	HYP
+inscribe	arm	RANDOM
+make	be still	RANDOM
+try	cancel	RANDOM
+hearable	audible	SYN
+determined	staunch	RANDOM
+invade	be lazy	RANDOM
+mystical	unnecessary	RANDOM
+unlawful	unruly	SYN
+thump	learner	RANDOM
+corrupt	uncharitable	RANDOM
+whisk	smooth	SYN
+dimensional	enthusiastic	RANDOM
+able	unattended	RANDOM
+interpret	clean	RANDOM
+deteriorate	see	RANDOM
+psychological	mind study	SYN
+immortal	hopeless	ANT
+abase	humble	RANDOM
+pocket	give back	ANT
+innovator	idealist	HYP
+uneven	forest	RANDOM
+maximum	non verbal	RANDOM
+iodine	indentation	RANDOM
+vague	obtuse	RANDOM
+indispensable	memorable	SYN
+diagnose	preach	RANDOM
+spring	bring to a stop	SYN
+court	criticize	RANDOM
+groove	jam	HYP
+encore	single performance	ANT
+contingency	unconfirmed event	RANDOM
+valuable	chaff	RANDOM
+alleviation	divot	RANDOM
+tabulate	love	RANDOM
+immortal	mortal	SYN
+park	understand wrongly	RANDOM
+digestion	indigestion	SYN
+snowball	puddle	SYN
+wink	glower	SYN
+critique	assess	HYP
+fan	blow air	SYN
+deteriorate	change	HYP
+foist	lie	ANT
+iconic	spirituality	RANDOM
+clam	shellfish	HYP
+learn	study	HYP
+unaffected	together	RANDOM
+symphonic	advancement	RANDOM
+civic	iambic	RANDOM
+punch	behaviorism	RANDOM
+progressive	enterprising	RANDOM
+emperor	restriction	RANDOM
+immobilize	resound	RANDOM
+trim	edit	RANDOM
+boom	bang	HYP
+manual	automated	HYP
+tribal	loner	ANT
+jury	performer	HYP
+iodine	germ	HYP
+humble	simple	RANDOM
+sexuality	feeling	HYP
+trim	fatten	RANDOM
+pardon	stifle	RANDOM
+polish	ruin	ANT
+impure	dirty	HYP
+misconstrue	deceive	HYP
+spring	be strong	HYP
+endemic	equal	RANDOM
+biblical	canonical	SYN
+nihilistic	illogical	SYN
+amalgamate	consolidate	SYN
+spring	resonate	RANDOM
+allude	confront	RANDOM
+fan	sterilize	RANDOM
+bulge	thin	ANT
+corrupt	heap	RANDOM
+sum	choke	RANDOM
+puzzle	confound	RANDOM
+partial	discordant	RANDOM
+mystical	level	RANDOM
+presentment	representation	HYP
+ink	correction fluid	RANDOM
+arboreal	living environment	HYP
+symbolic	defamation	RANDOM
+German studies	linguistic studies	SYN
+goodbye	meet	ANT
+audition	performance	HYP
+rivalry	challenge	HYP
+allude	tell the truth	ANT
+dimensional	massive	SYN
+biblical	spiritual	HYP
+prime	unlikely	RANDOM
+preparedness	servant	RANDOM
+unsuitable	inappropriate	SYN
+chap	chapette	SYN
+fire	water	ANT
+rendezvous	ale	RANDOM
+dimensional	property	RANDOM
+linguistics	study of language	SYN
+implicate	accusation	SYN
+corrupt	homey	RANDOM
+invade	be used to	RANDOM
+presentment	grains	RANDOM
+geologic	atmospheric	RANDOM
+pyramid	court	RANDOM
+lobster	flopper	SYN
+symbolic	semi annually	RANDOM
+pulmonary	visible	RANDOM
+vague	extravagant	RANDOM
+ink	mark	HYP
+saturation	abatement	RANDOM
+pulmonary	medical condition	HYP
+abdicate	succeed	ANT
+completeness	emptiness	ANT
+abuse	nurture	ANT
+bulge	form	HYP
+fiscal	personal	ANT
+immobilize	constrain	HYP
+vague	precise	ANT
+boom	let escape	RANDOM
+training	neglect	ANT
+modal	attitude	HYP
+reach	get to	SYN
+trombone	trumpet	SYN
+rainy	weather	HYP
+redirect	elevate	RANDOM
+zone	close one eye	RANDOM
+thankful	arboreal	RANDOM
+able	chemical	RANDOM
+uterine	historic	RANDOM
+catalogue	glower	RANDOM
+neural	associative	RANDOM
+able	podiatry	HYP
+skyline	blueberries	RANDOM
+chap	dude	ANT
+cyclonic	aerial	SYN
+critique	tidy	RANDOM
+deduce	assume	SYN
+deduce	smooth	RANDOM
+amalgamate	offend	RANDOM
+zebra	mammal	HYP
+corneal	regainable	RANDOM
+neural	cerebral	SYN
+make	bad	ANT
+corrupt	straightforward	RANDOM
+zone	go	RANDOM
+consist	accustom	RANDOM
+arrive	explain	RANDOM
+photographic	fibrous	RANDOM
+whisper	undo	RANDOM
+mystical	fantastic	HYP
+pastor	unbeliever	ANT
+unrefined	processed	HYP
+progressive	heart	RANDOM
+battle	force	RANDOM
+tabulate	turn on	RANDOM
+cameraman	stockade	RANDOM
+mystical	psychiatric	RANDOM
+fight	tattoo	RANDOM
+unsupervised	unchecked	HYP
+encore	rejection	RANDOM
+innovator	dance	RANDOM
+promotional	publicizing	SYN
+swat	fragment	RANDOM
+New York	city	HYP
+skunk	elephant	HYP
+picture	uncover	ANT
+orbital	distraught	RANDOM
+cat	dog	ANT
+scribe	let go	RANDOM
+socks	clothing	HYP
+pulmonary	lumbar	SYN
+disjoint	break apart	SYN
+cry	whine	SYN
+unaffected	unmoved	SYN
+innovator	trailblazer	RANDOM
+citation	mention	SYN
+prime	flop	RANDOM
+left	fibrous	RANDOM
+wink	squint	SYN
+foist	show differences	RANDOM
+manual	single	RANDOM
+yesterday	past	ANT
+tabulate	empower	RANDOM
+slam	criticize	RANDOM
+uplift	raise	HYP
+hedge	command	RANDOM
+make	punch	RANDOM
+orbital	straight	ANT
+nationality	liquid	RANDOM
+distribution	dude	RANDOM
+nationality	ingredient	RANDOM
+fight	wink	RANDOM
+pardon	condemn	SYN
+nose	energize	HYP
+accessibility	openness	ANT
+stockade	factual	RANDOM
+commitment	horn	RANDOM
+commitment	agreement	HYP
+postal	gastric	RANDOM
+representative	leader	HYP
+coriander	parting	RANDOM
+proportionate	intelligent	RANDOM
+sum	cool	RANDOM
+help	annoy	ANT
+split	jump	RANDOM
+contaminate	treat	HYP
+coupling	whole	HYP
+educator	chaff	RANDOM
+punch	give life	RANDOM
+orbital	dedicated	RANDOM
+taxonomic	categorised	HYP
+nose	regulate	RANDOM
+uterine	endometrial	SYN
+recoverable	woody	RANDOM
+pardon	punish	HYP
+alleviation	french fry	RANDOM
+hedge	say outright	RANDOM
+iconic	atypical	SYN
+disfavor	dislike	SYN
+chemical	legislature	RANDOM
+tomato	plant	HYP
+structure	quarrel	RANDOM
+amalgamate	whet	RANDOM
+despotic	theological	RANDOM
+English	British	SYN
+bleaching	tanning	SYN
+text	speech	HYP
+caffeine	crafts person	RANDOM
+engrave	inscribe	SYN
+meaningful	meaningless	ANT
+document	lunge	RANDOM
+win	lose	ANT
+speaker	sand	RANDOM
+wink	forever	RANDOM
+journey	insult	RANDOM
+corneal	temperamental	HYP
+disjoint	injure	RANDOM
+clam	animal	HYP
+disjoint	print	RANDOM
+education	external	RANDOM
+cemetery	burial place	HYP
+pastor	learner	RANDOM
+corrupt	open	RANDOM
+human	mortal	ANT
+knowledgeable	smart	HYP
+despotic	prostate	RANDOM
+publish	release	HYP
+computer	machine	HYP
+cemetery	sleet	RANDOM
+symbolic	surrogate	RANDOM
+foist	continue	ANT
+pine	loathe	ANT
+fatalistic	promising	RANDOM
+velocity	inertia	ANT
+unstructured	willy-nilly	RANDOM
+critique	function	RANDOM
+fight	insects	RANDOM
+assertion	insistence	SYN
+ink	emasculate	RANDOM
+swat	hit	SYN
+unlawful	incurable	RANDOM
+intercourse	stretcher	RANDOM
+unaffected	unsophisticated	RANDOM
+corrupt	edge	RANDOM
+linguistic	impoverished	RANDOM
+admiration	hatred	ANT
+citation	corral	RANDOM
+funded	unimportant	RANDOM
+scribe	speak	HYP
+humble	low	HYP
+shield	weapon	HYP
+try	tree	RANDOM
+fatalistic	non verbal	RANDOM
+helm	shell	ANT
+unknown	uncertain	HYP
+geologic	earthen	HYP
+humble	bound up	RANDOM
+workforce	liar	RANDOM
+progressive	liberal	HYP
+encore	seafood	RANDOM
+allude	hint	ANT
+intercourse	interact	SYN
+dimensional	impure	RANDOM
+trombone	wind instrument	HYP
+appall	differentiate	RANDOM
+saturation	geek	RANDOM
+hedge	lie	ANT
+zigzag	stray	SYN
+implicate	limit	RANDOM
+education	cognitive content	RANDOM
+park	leave	RANDOM
+fiscal	inappropriate	RANDOM
+symbolism	trail	RANDOM
+unnoticed	beneficial	RANDOM
+uninsured	unprepared	HYP
+essential	crucial	SYN
+icons	symbols	HYP
+sandstorm	event	HYP
+iconic	meaningful	HYP
+sensory	telephatic	SYN
+unsupervised	dependent	HYP
+pathological	insensate	RANDOM
+maximum	minimum	SYN
+compass	agnostic	RANDOM
+sum	misuse	ANT
+bop	small	ANT
+associative	dissociative	ANT
+boom	account	RANDOM
+modal	structural	HYP
+neural	spokesperson	RANDOM
+perfect	flawless	ANT
+monument	landmark	HYP
+swat	weaken	RANDOM
+matter	antimatter	ANT
+postal	spoken	RANDOM
+contaminate	sterilize	SYN
+power	strength	SYN
+try	be dormant	RANDOM
+conjunct	unite	SYN
+associative	known	SYN
+humble	bragging	RANDOM
+psychology	crawdad	RANDOM
+shield	student	RANDOM
+endemic	pessimistic	RANDOM
+fiscal	non-financial	ANT
+chemical	woodland	RANDOM
+determined	usual	RANDOM
+tomato	missile	RANDOM
+concise	rambling	RANDOM
+fight	oppose	SYN
+evidence	miss	ANT
+nihilistic	new	RANDOM
+strum	silence	ANT
+slam	put down	RANDOM
+proportionate	mystical	RANDOM
+alert	alarm	SYN
+uneven	Gregorian	RANDOM
+irritant	sedative	HYP
+caffeine	completeness	RANDOM
+foist	keep secret	RANDOM
+polish	perfect	HYP
+prejudiced	biased	SYN
+corrupt	effect	RANDOM
+commitment	aid	RANDOM
+camping trip	vacation	ANT
+parody	artistic work	HYP
+distribution	allocation	HYP
+pocket	whine	RANDOM
+emasculate	cool off	ANT
+spring	lunge	ANT
+whisper	slam	ANT
+digestive	property	RANDOM
+nose	conflict	RANDOM
+fiscal	understanding	RANDOM
+maximum	max	SYN
+appall	accept	ANT
+demonstration	proof	SYN
+climatic	meteorological	SYN
+photographic	first	RANDOM
+make	undo	RANDOM
+toil	labour	SYN
+arrive	rest	ANT
+postal	flat	RANDOM
+hedge	buffer	ANT
+caretaker	innocence	RANDOM
+intoxicate	stimulate	HYP
+power	unplug	RANDOM
+educator	disarray	RANDOM
+journey	maladapt	RANDOM
+star	shape	RANDOM
+openness	restriction	ANT
+stretcher	kiss	ANT
+musician	motion	RANDOM
+footprint	imprint	SYN
+arbor	pergola	SYN
+bulge	flatten	ANT
+caretaker	joint	RANDOM
+aggregate	bend	RANDOM
+provident	lively	RANDOM
+immortal	godlike	SYN
+symbolic	referential	SYN
+educator	abuser	ANT
+stout	practicing	RANDOM
+promotional	defund	RANDOM
+intercourse	limb	RANDOM
+abdicate	make easier	RANDOM
+funded	fractional	RANDOM
+preparedness	unbeliever	RANDOM
+emotional	nameless	RANDOM
+unlawful	defund	RANDOM
+skunk	confusion	RANDOM
+intentional	twisting	RANDOM
+slider	revenue	RANDOM
+fruit	root	SYN
+foist	leave alone	ANT
+rivalry	friendship	ANT
+dimensional	neglect	RANDOM
+abuse	mistreat	SYN
+disciplinary	regular	RANDOM
+emotional	deadpan	RANDOM
+unconfirmed	unapproved	SYN
+tabulate	compile	SYN
+weightless	heavy	SYN
+park	attempt	RANDOM
+maze	structure	HYP
+recreation	smooth	RANDOM
+polish	clarify	RANDOM
+zone	inhale	RANDOM
+linguistic	bragging	RANDOM
+orbital	cyclic	HYP
+mantle	shelf	HYP
+pastor	saturation	RANDOM
+utter	speak	HYP
+immobilize	mobilize	ANT
+spring	revive	SYN
+caretaker	violator	ANT
+slam	embody	RANDOM
+gross	tasty	HYP
+metropolitan	clear	RANDOM
+compass	fail	ANT
+court	stare	RANDOM
+hone	perfect	RANDOM
+unsupervised	watched	ANT
+export	talk together	RANDOM
+zigzag	unify	RANDOM
+despotic	useful	RANDOM
+dialectical	philosophical	HYP
+pondering	think	HYP
+pathological	unpathological	ANT
+knowledgeable	ignorant	ANT
+sensory	ethereal	RANDOM
+philosophical	philosophy-related	SYN
+structure	put together	SYN
+strum	quiet	ANT
+evidence	trunk	RANDOM
+neutron	crustacean	HYP
+fight	surrender	ANT
+disadvantageous	arid	RANDOM
+terminal	inaugural	RANDOM
+chap	ethics	RANDOM
+neural	nervous	SYN
+try	scrape	RANDOM
+groove	uneducated	RANDOM
+humble	characteristic	HYP
+nose	excuse	RANDOM
+innovator	creator	HYP
+deaf	can	RANDOM
+hold	offer	HYP
+neutron	relationship	RANDOM
+unaffected	willing	RANDOM
+educator	employee	HYP
+admiration	potpourri	RANDOM
+chop	cut	HYP
+allude	proof	SYN
+whisper	preach	SYN
+conflict	confrontation	SYN
+velocity	measure	HYP
+excitable	balanced	RANDOM
+weightless	english	RANDOM
+slam	flatter	RANDOM
+educator	electron	RANDOM
+thrifty	commercially	RANDOM
+skyline	view	HYP
+invalid	long-lasting	RANDOM
+training	upbringing	HYP
+fight	agree	ANT
+court	drive	HYP
+trim	enlarge	ANT
+proof	information	HYP
+encore	alley	RANDOM
+slider	fixer	HYP
+arachnid	arthropod	SYN
+singularity	potpourri	RANDOM
+slam	force	RANDOM
+nationality	unaffiliation	RANDOM
+amalgamate	stop	RANDOM
+standardization	calibration	ANT
+power	disagree	RANDOM
+uplift	search	RANDOM
+funded	bragging	RANDOM
+awaken	tire	RANDOM
+iron	learn	RANDOM
+gauge	machinery	HYP
+able	real	RANDOM
+poetic	aesthetic	HYP
+able	arborary	RANDOM
+contradiction	misspeak	RANDOM
+allude	refer	SYN
+vague	enthusiastic	RANDOM
+shield	shell	SYN
+deduce	figure out	SYN
+knowledgeable	inherent	RANDOM
+stockade	bivalve	SYN
+deduce	become alert	RANDOM
+snowball	data	RANDOM
+morphological	biological	SYN
+conjunct	combined	SYN
+spring	sit	ANT
+ancestor	descendant	SYN
+crab	directionless	RANDOM
+partial	bottle	RANDOM
+tour	travel	HYP
+neural	biological	RANDOM
+sword	weapon	HYP
+orbital	on purpose	RANDOM
+emasculate	enlarge	HYP
+caretaker	substance	RANDOM
+sexual	sexless	ANT
+wink	support	RANDOM
+trombone	horn	RANDOM
+trivial	meaningful	RANDOM
+corporal	cerebral	ANT
+emperor	commoner	RANDOM
+fight	mess	RANDOM
+trim	reroute	RANDOM
+flask	pen	RANDOM
+dodge	evade	SYN
+barley	grains	HYP
+musician	bandsman	SYN
+spiral	spin in circles	SYN
+evidence	zone	RANDOM
+quick	rapid	SYN
+ink	tatoo	ANT
+bop	disseminate	RANDOM
+left	community	RANDOM
+deliberate	voluntary	HYP
+climatic	unposted	RANDOM
+vague	theological	RANDOM
+sensory	tactile	HYP
+stone	rock	SYN
+unknown	brave	RANDOM
+disclose	stifle	RANDOM
+everything eater	polyphage	RANDOM
+ethnicity	race	SYN
+exhausted	weary	HYP
+funded	cash-strapped	SYN
+unstructured	suburbs	RANDOM
+unknown	variables	RANDOM
+bill	limit	RANDOM
+split	cut	HYP
+evidence	provide proof	SYN
+unaffected	stained	HYP
+geologic	okay	RANDOM
+recoverable	repairable	SYN
+crayfish	crawdad	SYN
+corrupt	twist	RANDOM
+despotic	mean	HYP
+cyclonic	monumental	RANDOM
+catalogue	loosen	ANT
+dimensional	picturesque	SYN
+superficial	free willed	RANDOM
+hedge	shrubbery	SYN
+iconic	forgettable	ANT
+citation	weed	RANDOM
+preparedness	rain	RANDOM
+thump	tap	ANT
+open	receptive	RANDOM
+neural	undigestive	RANDOM
+in stock	out of stock	ANT
+pontificate	hush	RANDOM
+arboreal	spherical	RANDOM
+caffeine	guaranine	ANT
+vegetables	animals	ANT
+trombone	realism	RANDOM
+fan	critic	RANDOM
+intercourse	celibacy	RANDOM
+exciting	thrilling	SYN
+furl	shine	RANDOM
+fly	behave	HYP
+Tokyo	city	HYP
+scribe	erase	ANT
+preparedness	cilantro	RANDOM
+substance	matter	HYP
+terminal	pulmonary	HYP
+slider	alleviation	RANDOM
+geologic	side	RANDOM
+pyramid	snoop	RANDOM
+rivalry	harmony	ANT
+ink	term	RANDOM
+picture	cuddle	RANDOM
+lock up	constrict	SYN
+education	sky	RANDOM
+fan	adversary	ANT
+clam	empty	RANDOM
+partial	fond	RANDOM
+district	region	HYP
+parody	exaggeration	SYN
+invalidate	deny	HYP
+neutron	atomic particle	HYP
+uplift	support	HYP
+tribal	native	SYN
+prime	downfall	RANDOM
+immortal	amount	RANDOM
+split	break up	HYP
+measurement	gender identity	RANDOM
+stout	scattering	RANDOM
+excitable	cleansed	RANDOM
+chap	senior	SYN
+uterine	of the uterus	SYN
+metamorphosis	bare	RANDOM
+rivalry	commoner	RANDOM
+impure	spinning	RANDOM
+admiration	poor	RANDOM
+handler	trainer	SYN
+distressed	upset	HYP
+matter	alkaloid	RANDOM
+interpret	misunderstand	RANDOM
+rub	scratch	ANT
+chap	upper	ANT
+pathological	learned	RANDOM
+quarterly	irregularly	RANDOM
+contrast	group	RANDOM
+ink	edge out	RANDOM
+symbolic	metaphorical	RANDOM
+flask	argument	RANDOM
+disjoint	divide	HYP
+terminal	crying	RANDOM
+awaken	avoid	RANDOM
+unstructured	regularly	RANDOM
+measurement	meet	SYN
+matter	nothing	ANT
+term	quit	RANDOM
+stretcher	medical device	HYP
+pyramid	engrave	SYN
+kingdom	monarchy	SYN
+vague	camera	RANDOM
+saturation	process	HYP
+concise	focused	RANDOM
+appall	impress	ANT
+neural	non-neural	ANT
+measurement	quote	RANDOM
+symbolism	country	RANDOM
+strum	infer	RANDOM
+infiltrate	enter	HYP
+blueberry	astronomical object	RANDOM
+poetic	punitive	RANDOM
+tallow	trait	RANDOM
+elephant	mass	RANDOM
+lump	create proof	RANDOM
+pyramid	let go	RANDOM
+organise	muddle	RANDOM
+flask	fennel	RANDOM
+groove	barrier	RANDOM
+terminal	severe	SYN
+amalgamate	phrase	RANDOM
+double	standards	RANDOM
+trim	comfort	ANT
+knowledgeable	woody	RANDOM
+instructive	misleading	RANDOM
+abuse	polish	RANDOM
+inhabit	stay out	ANT
+trombone	musical instrument	HYP
+promotional	anarchy	RANDOM
+contaminate	refrain	ANT
+pocket	resting	RANDOM
+measurement	activity	RANDOM
+consist	exist	HYP
+wink	turn on	ANT
+wink	blink	SYN
+representative	natural	RANDOM
+wink	close one eye	SYN
+term	misjudge	RANDOM
+interpret	translate	SYN
+excitable	in depth	RANDOM
+edit	disassemble	RANDOM
+translator	professional	HYP
+deaf	joined	RANDOM
+fee	unearned	ANT
+intoxicate	corrupt	RANDOM
+historic	analog	SYN
+spiral	weaken	RANDOM
+scribe	make evil	RANDOM
+air driven	pneumatic	SYN
+immobilize	enable	RANDOM
+oceanic	subsidized	RANDOM
+nationality	trombone	RANDOM
+parody	tomato	RANDOM
+catabolism	organic process	HYP
+matter	grains	RANDOM
+bill	waive	RANDOM
+gauge	corral	RANDOM
+structure	feminize	RANDOM
+zebra	teacher	RANDOM
+poetic	pedantic	ANT
+manual	precise	HYP
+able	pure	RANDOM
+nose	speed	RANDOM
+iron	leave	RANDOM
+fight	clash	SYN
+untypical	utmost	RANDOM
+unconfirmed	auditory	RANDOM
+mensuration	measurement	HYP
+emotional	momentous	HYP
+planet	wanderstar	RANDOM
+pathological	wholesome	RANDOM
+photographic	unsound	ANT
+lump	loosen	RANDOM
+innovator	follower	RANDOM
+historic	whirling	RANDOM
+foist	lift	RANDOM
+sensory	tension	RANDOM
+pyramid	know	RANDOM
+chap	occupation	RANDOM
+able	problem	RANDOM
+stockade	copier	RANDOM
+mantle	rock	RANDOM
+pontificate	listen	HYP
+harmonic	harmonious	SYN
+intentional	annual	RANDOM
+knowledgeable	intelligent	HYP
+recoverable	young	RANDOM
+sandstorm	storm	ANT
+metropolis	area	HYP
+funded	critical	RANDOM
+accessibility	stand	RANDOM
+split	act	HYP
+rationale	top	RANDOM
+innovator	culture	RANDOM
+zebra	equine	ANT
+oceanic	shallow	ANT
+unfavorable	favorable	ANT
+kill	save	ANT
+implicate	affect	SYN
+pocket	clothing	HYP
+distant	aloof	SYN
+fee	dishonor	ANT
+indispensable	unnecessary	ANT
+accustom	change	HYP
+achieve	heads up	RANDOM
+unconfirmed	questionable	HYP
+boring	trait	HYP
+organise	flatter	RANDOM
+knitwear	fabric	HYP
+unpleasant	friendly	ANT
+fight	strum	RANDOM
+pontificate	say	HYP
+stone	mineral	HYP
+commitment	comradery	SYN
+knowledgeable	uncontrolled	RANDOM
+exist	disembody	ANT
+double	extra	ANT
+helm	omnivore	RANDOM
+historic	ancient	SYN
+deteriorate	obfuscate	RANDOM
+partial	learned	RANDOM
+blackened	incandescent	HYP
+groove	cut	RANDOM
+untypical	interactive	RANDOM
+disclose	bang	RANDOM
+punch	fight	HYP
+tabulate	put in disarray	RANDOM
+prime	unique	RANDOM
+whisk	avoid	ANT
+iconic	characteristic	HYP
+emasculate	imprint	RANDOM
+township	deplore	RANDOM
+lobster	crayfish	ANT
+vague	okay	RANDOM
+pneumatic	happy	RANDOM
+audition	acting	HYP
+double	save	RANDOM
+polish	tarnish	SYN
+oceanic	ocean-related	SYN
+invalidate	validate	ANT
+invalidate	assemble	RANDOM
+encore	airship	RANDOM
+halter	not really one	RANDOM
+awaken	arise	SYN
+phagocyte	airplane	RANDOM
+awaken	alter	RANDOM
+uninsured	forward	RANDOM
+contradiction	stationary	RANDOM
+geologic	geology-related	SYN
+unfavorable	disliked	SYN
+stone	material	HYP
+omnivore	comedy	RANDOM
+allude	bounce	RANDOM
+organise	talk softly	RANDOM
+critique	not evaluate	ANT
+progressive	diagnostic	RANDOM
+endemic	widespread	ANT
+abdicate	expect	RANDOM
+foot	depression	RANDOM
+arboreal	barren	ANT
+goodbye	farewell	ANT
+contaminate	castrate	RANDOM
+sum	amount	SYN
+swat	whack	ANT
+abuse	help	ANT
+common	ordinary	ANT
+stockade	field	HYP
+artist	career	HYP
+zone	stun	RANDOM
+hedge	paper	RANDOM
+whisper	provide proof	RANDOM
+instructive	directional	SYN
+confine	constrain	HYP
+uplift	not touch	RANDOM
+uneven	smooth	ANT
+split	send away	RANDOM
+zigzag	separate	RANDOM
+antiseptic	unsterilized	RANDOM
+coupling	idealist	RANDOM
+deduce	learn	HYP
+workforce	unemployment	RANDOM
+neutron	tanning	RANDOM
+citation	freedom	RANDOM
+bop	unprepared	RANDOM
+parody	leather	RANDOM
+unknown	intentional	RANDOM
+leaflet	builder	RANDOM
+mortal	transient	RANDOM
+associative	disadvantageous	RANDOM
+omnivore	everything eater	HYP
+emasculate	criticize	RANDOM
+training	lazing	RANDOM
+photographic	graphic	SYN
+deduce	scramble	RANDOM
+tour	wander	RANDOM
+commitment	obliviousness	ANT
+try	jump	RANDOM
+accessibility	dishonor	RANDOM
+sandstorm	hurricane	SYN
+contradiction	hospital	RANDOM
+clam	marine life	RANDOM
+halter	farm	RANDOM
+parody	tallow	RANDOM
+contaminate	be stagnant	RANDOM
+weightless	standardizing	RANDOM
+maze	path	SYN
+intentional	acting	HYP
+edit	part	HYP
+unlawful	chaotic	SYN
+structure	freestyle	RANDOM
+lop	affix	RANDOM
+pontificate	roughen	RANDOM
+simper	frown	SYN
+resonate	affect	HYP
+stretcher	slip	SYN
+boom	invoke	RANDOM
+construe	judge	HYP
+tribal	parochial	SYN
+unrefined	tasteless	RANDOM
+leaflet	award	RANDOM
+omnivore	all eater	HYP
+term	accept	RANDOM
+alive	breathless	ANT
+metropolitan	akin	RANDOM
+polish	abdicate	RANDOM
+leaflet	prison	RANDOM
+blueberry	blueberries	SYN
+contaminate	face	RANDOM
+shield	explanation	RANDOM
+taxonomic	unclassified	ANT
+simper	misuse	RANDOM
+deaf	non-hearing	SYN
+omnivore	building	RANDOM
+representative	loner	ANT
+parody	reality	ANT
+taxonomic	bound	RANDOM
+pathological	insane	HYP
+stout	actor	RANDOM
+untypical	common	ANT
+slam	thrust open	ANT
+intoxicate	calculate	RANDOM
+workforce	CEO	RANDOM
+historic	noteworthy	HYP
+alleviation	eradication	SYN
+fee	fixed charge	ANT
+caretaker	rest	ANT
+recoverable	friendly	RANDOM
+disjoint	connect	ANT
+consist	comprise	SYN

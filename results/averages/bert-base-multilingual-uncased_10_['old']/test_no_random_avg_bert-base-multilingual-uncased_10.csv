@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+chinese,89.8,82.1,85.7,393.0
+german,50.1,37.0,41.0,832.0
+english,53.9,39.2,44.4,851.0
+italian,46.0,37.6,40.9,484.0
+german NEW,51.5,39.1,42.6,832.0
+english NEW,56.8,43.8,48.4,851.0
