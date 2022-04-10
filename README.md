@@ -13,7 +13,7 @@ This folder contains all results and scripts used to obtain the CogALex 2.0 resu
 The training, evaluation and analysis notebooks can be found at the root of this folder.
 
 ## Reference and Paper
-Our [paper](https://datacentricai.org/papers/164_CameraReady_CogALex_2_0.pdf) describing the improved dataset and the resulting differences in model-performance were presented at the [Data Centric AI Workshop](https://datacentricai.org) at NeurIPS 2021 
+Our [paper](https://datacentricai.org/neurips21/papers/164_CameraReady_CogALex_2_0.pdf) describing the improved dataset and the resulting differences in model-performance were presented at the [Data Centric AI Workshop](https://datacentricai.org/neurips21/) at NeurIPS 2021 
 
 Lang, C., Wachowiak, L., Heinisch, B., & Gromann, D. (2021). *CogALex 2.0: Impact of Data Quality on Lexical-Semantic Relation Prediction*. Data-Centric AI Workshop. 
 
